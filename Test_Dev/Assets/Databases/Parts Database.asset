@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e61ebd02ccd25e24a9b0d38897198d33, type: 3}
+  m_Name: Parts Database
+  m_EditorClassIdentifier: 
+  currentTab: 2
+  Part:
+  - PartData: {fileID: 11400000, guid: 96c740792dc97b14197b3cd816221eda, type: 2}
+    PartName: Heavy Left Hand
+    PartType: Left Hand
+    Path: Assets/Parts/Heavy_LeftHand.asset
+    PartID: 8523964
+  - PartData: {fileID: 11400000, guid: 9e352c3ba86818a4991c388c08faa7fd, type: 2}
+    PartName: Heavy Right Hand
+    PartType: Right Hand
+    Path: Assets/Parts/Heavy_RightHand.asset
+    PartID: 4534533
+  - PartData: {fileID: 11400000, guid: e01afb5f6abd741499379add1b0fb26f, type: 2}
+    PartName: Light Left Hand
+    PartType: Left Hand
+    Path: Assets/Parts/Light_LeftHand.asset
+    PartID: 987213
+  - PartData: {fileID: 11400000, guid: 52b8ba8665d1ea949a86938126b8505f, type: 2}
+    PartName: Light Right Hand
+    PartType: Right Hand
+    Path: Assets/Parts/Light_RightHand.asset
+    PartID: 120356
+  - PartData: {fileID: 11400000, guid: 2b0bf9672095a7941a0c35f0b79edb01, type: 2}
+    PartName: Medium Left Hand
+    PartType: Left Hand
+    Path: Assets/Parts/Medium_leftHand.asset
+    PartID: 35165
+  - PartData: {fileID: 11400000, guid: 97868d1f419239249948caa477990079, type: 2}
+    PartName: Medium Right Hand
+    PartType: Right Hand
+    Path: Assets/Parts/Medium_RightHand.asset
+    PartID: 75735735
+  - PartData: {fileID: 11400000, guid: d050988cfe6a8b8499de4c11e66174f0, type: 2}
+    PartName: Right Leg
+    PartType: Right Leg
+    Path: Assets/Parts/Right_Leg.asset
+    PartID: 9547863
+  - PartData: {fileID: 11400000, guid: 9f61d602efd882141869cd8d63a1bb84, type: 2}
+    PartName: Medium Left Leg
+    PartType: Left Leg
+    Path: Assets/Parts/Left_Leg.asset
+    PartID: 519357
+  - PartData: {fileID: 11400000, guid: 11e5820da0e13484ba5b0e4f4429a7bd, type: 2}
+    PartName: Light Left Leg
+    PartType: Left Leg
+    Path: Assets/Parts/Light_leftLeg.asset
+    PartID: 3246587

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbc75865b9b5b3848a9ab9918e2dd849, type: 3}
+  m_Name: Medium_leftHand
+  m_EditorClassIdentifier: 
+  Part_Name: Medium Left Hand
+  ID: 35165
+  Asthetic: {fileID: 1193586509575936, guid: 7a90242083d71d343b37a72df8563520, type: 2}
+  PartType: Left Hand
+  Weight: 0.5
+  Enegry: 2
+  Damage: 3
