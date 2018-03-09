@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e61ebd02ccd25e24a9b0d38897198d33, type: 3}
+  m_Name: New Database
+  m_EditorClassIdentifier: 
+  currentTab: 0
+  Part:
+  - PartData: {fileID: 11400000, guid: 0a27ef375dc3f8f4184261d1d82424d0, type: 2}
+    PartName: Right Leg
+    PartType: Right Leg
+    Path: Assets/Parts/RightLeg.asset
+    PartID: 5165451

@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e61ebd02ccd25e24a9b0d38897198d33, type: 3}
   m_Name: Parts Database
   m_EditorClassIdentifier: 
-  currentTab: 2
+  currentTab: 3
   Part:
   - PartData: {fileID: 11400000, guid: 96c740792dc97b14197b3cd816221eda, type: 2}
     PartName: Heavy Left Hand
