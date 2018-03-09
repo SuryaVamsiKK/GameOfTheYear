@@ -82,7 +82,7 @@ BlendTree:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Blend Tree
+  m_Name: Controller
   m_Childs:
   - serializedVersion: 2
     m_Motion: {fileID: 7400000, guid: c66bdf1c59c263f43ace6f06c19789e9, type: 2}
@@ -95,7 +95,7 @@ BlendTree:
   - serializedVersion: 2
     m_Motion: {fileID: 7400000, guid: 5bda5a0ea4b270b408d80622d08c3e7c, type: 2}
     m_Threshold: 1
-    m_Position: {x: 1, y: 0}
+    m_Position: {x: 0.5, y: 0}
     m_TimeScale: 1
     m_CycleOffset: 0
     m_DirectBlendParameter: velX
@@ -1403,7 +1403,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions: []
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102890933650329410}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -1471,7 +1471,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Idle 0
+  m_Name: Movement
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:

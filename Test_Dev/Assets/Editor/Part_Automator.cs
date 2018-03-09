@@ -30,7 +30,7 @@ public class Part_Automator : EditorWindow {
 
 				if (obj.GetComponent<Animator>() != null)
 				{
-					obj.GetComponent<Animator>().runtimeAnimatorController = AssetDatabase.LoadAssetAtPath("Assets/Animations/Character.controller", typeof(RuntimeAnimatorController)) as RuntimeAnimatorController;
+					obj.GetComponent<Animator>().runtimeAnimatorController = AssetDatabase.LoadAssetAtPath("Assets/AnimationsV2/CharacterV2.controller", typeof(RuntimeAnimatorController)) as RuntimeAnimatorController;
 				}
 
 				if (obj.GetComponent<Parts_Animations>() == null)

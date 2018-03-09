@@ -82,7 +82,7 @@ public class Player_Body : MonoBehaviour {
 
 		Left_Hand = "Medium Left Hand";
 		Right_Hand = "Medium Right Hand";
-		Left_Leg = "Left Leg";
+		Left_Leg = "Medium Left Leg";
 		Right_Leg = "Right Leg";
 		Assignment();
 		VisualUpdate();
